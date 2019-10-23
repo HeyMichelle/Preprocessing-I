@@ -133,4 +133,9 @@ table {
 html,
 body {
   height: 100%;
+  width: 880px;
+  font-size: 62.5%;
+}
+header {
+  border: 1px solid red;
 }
